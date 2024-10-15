@@ -29,3 +29,14 @@ input[type="password"]:focus {
   background-color: #ddd;
   outline: none;
 }
+
+.registerbtn {
+  background-color: teal;
+  color: white;
+  padding: 16px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin: auto;
+  opacity: 0.5;
+}
