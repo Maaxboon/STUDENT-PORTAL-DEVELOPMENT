@@ -40,3 +40,7 @@ input[type="password"]:focus {
   margin: auto;
   opacity: 0.5;
 }
+
+.registerbtn:hover {
+  opacity: 1;
+}
